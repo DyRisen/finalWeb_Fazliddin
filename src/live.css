@@ -20,7 +20,7 @@ html{
   height: 80px;
 }
 .glav{
-  margin-top: 20px;
+  margin-top: 80px;
 }
 .heo{
     color: gray;
@@ -57,7 +57,7 @@ html{
     height: 600px;
 }
 .www2{
-  margin-top: 20px;
+  margin-top: 80px;
   margin-left: 500px;
   box-shadow: 0 30px 40px rgba(0, 0, 0, 0.9);
 }
@@ -74,7 +74,7 @@ html{
   width: 100px;
 }
 
-.collll{
+.col-pic{
   padding-top: 50px;
 }
 
