@@ -59,6 +59,7 @@ html{
 .www2{
   margin-top: 20px;
   margin-left: 500px;
+  box-shadow: 0 30px 40px rgba(0, 0, 0, 0.9);
 }
 .zz{
   width: 600px;
@@ -73,8 +74,16 @@ html{
   width: 100px;
 }
 
+.collll{
+  padding-top: 50px;
+}
 
-
+.marquee{
+  width: 100%;
+  height: 230px;
+  padding-top: 40px;
+  padding-bottom: 40px
+}
 
 
 
