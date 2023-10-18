@@ -1,7 +1,21 @@
 /* стиль для видео */
 #video-container{
     position: relative;
+    top: 60px;
+    right: 140px;
 }
+#video-container-2{
+    display: flex;
+}
+
+#my-video-2{
+    padding-bottom: 80px;
+    position: relative;
+    left: 100px;
+}
+
+
+
 
 #play-button{
     position: absolute;
